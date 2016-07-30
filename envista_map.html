@@ -39,18 +39,7 @@
         });
         map.addLayer(MapQuestOpen_Aerial);
 
-
-        // Stamen Watercolor Basemap
-        var Stamen_Watercolor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        subdomains: 'abcd',
-        minZoom: 1,
-        maxZoom: 16,
-        ext: 'png'
-        });
-        map.addLayer(Stamen_Watercolor);
-
-
+        
         // Open Map Surfer Roads Basemap
         var OpenMapSurfer_Roads = L.tileLayer('http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}', {
         maxZoom: 20,
@@ -70,44 +59,32 @@
         // OVERLAYS
  
         // Add maximum temperature data
-        var max_temps = new L.geoJson();
-        max_temps.addTo(map);
+        var envista_proj = new L.geoJson();
+        envista_proj.addTo(map);
 
         $.ajax({
         dataType: "json",
-        url: "envista3.geojson",
+        url: "envista.geojson",
         success: function(data) {
             $(data.features).each(function(key, data) {
-            max_temps.addData(data);
+            envista_proj.addData(data);
             });
         }
         }).error(function() {});
 
 
-        // (2) Add a WMS for weather data
-        var nexrad = L.tileLayer.wms("http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi", {
-        layers: 'nexrad-n0r-900913',
-        format: 'image/png',
-        transparent: true,
-        attribution: "Weather data © 2012 IEM Nexrad"
-        });
-        map.addLayer(nexrad);
-
-
         // Define and display the control for Basemaps and Overlays
         var baseLayers = {
             "Map Quest Aerial": MapQuestOpen_Aerial,
-            "Water Color": Stamen_Watercolor,
             "Open Map Surfer Roads": OpenMapSurfer_Roads,
             "Open Street Map - B&W": OpenStreetMap_BlackAndWhite
         };
         var overlays = {
-            "Maximum Temperatures": max_temps,
-            "Weather": nexrad,
+            "Construction Projects": envista_proj,
         };
         L.control.layers(baseLayers, overlays).addTo(map);
 
-        map.setView([38, -100], 4);
+        map.setView([38, -122], 6);
     </script>
 </body>
 </html>
