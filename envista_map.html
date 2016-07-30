@@ -65,7 +65,6 @@
 
         // Define and display the control for Basemaps and Overlays
         var baseLayers = {
-            "Map Quest Aerial": MapQuestOpen_Aerial,
             "Open Map Surfer Roads": OpenMapSurfer_Roads,
             "Open Street Map - B&W": OpenStreetMap_BlackAndWhite
         };
@@ -74,7 +73,7 @@
         };
         L.control.layers(baseLayers, overlays).addTo(map);
 
-        map.setView([38, -122], 6);
+        map.setView([38, -122], 13);
     </script>
 </body>
 </html>
