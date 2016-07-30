@@ -30,14 +30,6 @@
         // BASEMAPS
         // Additional basemaps @ https://leaflet-extras.github.io/leaflet-providers/preview/
         
-        // Open Map Surfer Roads Basemap
-        var OpenMapSurfer_Roads = L.tileLayer('http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}', {
-        maxZoom: 20,
-        attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        });
-        map.addLayer(OpenMapSurfer_Roads);
-
-
         // OpenStreetMap Black and White basemap
         var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
         maxZoom: 18,
@@ -45,7 +37,15 @@
         });
         map.addLayer(OpenStreetMap_BlackAndWhite);
 
-
+        
+        // Open Map Surfer Roads Basemap
+        var OpenMapSurfer_Roads = L.tileLayer('http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}', {
+        maxZoom: 20,
+        attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        });
+        map.addLayer(OpenMapSurfer_Roads);
+        
+        
         // OVERLAYS
  
         // Add maximum temperature data
@@ -65,8 +65,8 @@
 
         // Define and display the control for Basemaps and Overlays
         var baseLayers = {
-            "Open Map Surfer Roads": OpenMapSurfer_Roads,
-            "Open Street Map - B&W": OpenStreetMap_BlackAndWhite
+            "Open Street Map - B&W": OpenStreetMap_BlackAndWhite,
+            "Open Map Surfer Roads": OpenMapSurfer_Roads
         };
         var overlays = {
             "Construction Projects": envista_proj,
