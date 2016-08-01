@@ -1,0 +1,3875 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401130027653", 
+          "37.7216686699512"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400027175505", 
+          "37.7174743735515"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40161257895", 
+          "37.7228323711212"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40234256456", 
+          "37.7140990475145"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401102078862", 
+          "37.7216015276598"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400434638411", 
+          "37.7191617102322"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400276326468", 
+          "37.718506137448"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400784747606", 
+          "37.7236161954121"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401422855993", 
+          "37.7237680896874"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.3998281432", 
+          "37.7166501356563"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401275791002", 
+          "37.7220188424465"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.39834811451", 
+          "37.7230361451734"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401074130225", 
+          "37.7215343853044"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401836771434", 
+          "37.7233761761025"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.404637744739", 
+          "37.7096235905287"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400086972996", 
+          "37.7177220052759"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399739507484", 
+          "37.7161827237361"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400131475643", 
+          "37.717906296114"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399920011297", 
+          "37.7170305843289"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.403109795699", 
+          "37.7117217163117"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.403851367858", 
+          "37.7107674448891"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40087290355", 
+          "37.7209765140897"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400203900712", 
+          "37.7182062168525"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400355482039", 
+          "37.7188339238899"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400073001816", 
+          "37.7234467676372"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400887938591", 
+          "37.7236407591888"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40206096665", 
+          "37.7239199807831"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400011880229", 
+          "37.717411032881"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.405122041008", 
+          "37.7086017454082"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399214407203", 
+          "37.7232423764231"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399783825153", 
+          "37.7164164298058"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.405228211153", 
+          "37.7083612376749"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.44280821454", 
+          "37.7692534137396"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.439742972063", 
+          "37.7705647146556"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465252541161", 
+          "37.747823481496"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.413353964248", 
+          "37.7876635853625"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.405718739561", 
+          "37.7808783604405"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407869496112", 
+          "37.7986968476946"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.491480512286", 
+          "37.7842247589007"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400042470913", 
+          "37.7175377143276"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41019381777", 
+          "37.801270193273"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.415748644624", 
+          "37.8041462137685"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442187879968", 
+          "37.7715710242628"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465732851421", 
+          "37.7456903247224"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.418088098123", 
+          "37.7861010259849"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.490364490849", 
+          "37.7836399423405"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464176994044", 
+          "37.746403955369"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40142155562", 
+          "37.722369014661"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.400428874338", 
+          "37.7235314820073"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.467508480597", 
+          "37.744865407776"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443056777268", 
+          "37.7656254953025"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464717531081", 
+          "37.7492624549831"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.401517067247", 
+          "37.7226006929574"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "30982911", 
+        "start_date": "2016-01-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466461602178", 
+          "37.7464998159534"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464116026492", 
+          "37.7465945437233"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.416814264413", 
+          "37.787222904299"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.463580710371", 
+          "37.747430374128"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.418913417229", 
+          "37.7859969593799"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407159487741", 
+          "37.7797388917228"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410760085962", 
+          "37.7768909952958"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464933324398", 
+          "37.7484152228559"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443610937727", 
+          "37.7682400297928"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.485945328167", 
+          "37.781974606393"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.444024306693", 
+          "37.7722952759626"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41763040687", 
+          "37.7871192746772"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464608090133", 
+          "37.7450980073885"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411197393387", 
+          "37.801147428946"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.463967235949", 
+          "37.7495686939598"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465315461283", 
+          "37.7476376988715"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.441367046227", 
+          "37.7716750571444"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419547853912", 
+          "37.7849602455892"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442575244777", 
+          "37.7659282709121"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.491679891898", 
+          "37.7842355073259"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41331341607", 
+          "37.8024634735195"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443311688743", 
+          "37.7704695245158"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419099465137", 
+          "37.786932726281"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443012015524", 
+          "37.7714645647484"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.46571595339", 
+          "37.7458722491187"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.414995423077", 
+          "37.7874538301255"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465404310714", 
+          "37.7459777858465"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409387006261", 
+          "37.777977072909"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410206544225", 
+          "37.8003154854257"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.470574087923", 
+          "37.7365890150564"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-06-30T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 262", 
+        "start_date": "2017-04-03T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.405326044874", 
+          "37.7811889281682"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465345607165", 
+          "37.7499811731088"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409610457464", 
+          "37.7999026474259"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.416853008524", 
+          "37.8050495017599"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.408832677841", 
+          "37.7784155215199"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.49095112118", 
+          "37.7843032424188"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412437407701", 
+          "37.7877785591331"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41021420185", 
+          "37.7773227840683"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419833090396", 
+          "37.7863589373515"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419738734165", 
+          "37.7858928871316"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.491436411655", 
+          "37.7835914022053"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464510133486", 
+          "37.7496758012169"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466746941504", 
+          "37.7456094579108"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464584687541", 
+          "37.7467985323011"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.463901436719", 
+          "37.7465576112434"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409014377428", 
+          "37.7994898061606"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.46360353926", 
+          "37.7466757486328"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464097519797", 
+          "37.748212773085"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.469056678308", 
+          "37.737969867699"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-06-30T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 262", 
+        "start_date": "2017-04-03T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.415161325639", 
+          "37.8037394028922"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411014418123", 
+          "37.7766898187417"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407981336751", 
+          "37.7790895602964"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412021422784", 
+          "37.7878312402228"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464384604071", 
+          "37.7447713257385"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465685394419", 
+          "37.7474846586764"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.408552134114", 
+          "37.778638097842"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419638988931", 
+          "37.7854330224525"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466151882211", 
+          "37.7474102084234"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419880518757", 
+          "37.7865932251161"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.414876784827", 
+          "37.8035423108843"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.44323593689", 
+          "37.7664988655212"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.488753613746", 
+          "37.7837128697267"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443649086181", 
+          "37.7704263570095"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411606112798", 
+          "37.7762213423831"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.415817061", 
+          "37.7873495160489"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412383616942", 
+          "37.7756065426159"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411310266323", 
+          "37.7764555808847"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466868347876", 
+          "37.7449165215542"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465684867463", 
+          "37.748592736901"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412531201752", 
+          "37.7877667938368"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410580140793", 
+          "37.8005742272539"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.463761554138", 
+          "37.7486070013978"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.48661971094", 
+          "37.783809441173"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466138213003", 
+          "37.74428068027"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442810959771", 
+          "37.7660106244048"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419785911958", 
+          "37.7861259122038"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465042586097", 
+          "37.7496452606471"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407691083186", 
+          "37.7793184465706"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409109842941", 
+          "37.7781962976395"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.491458461721", 
+          "37.7839080805804"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464714120825", 
+          "37.7468740096243"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464501980664", 
+          "37.7473283334464"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.488217445211", 
+          "37.7837371380698"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.490900451359", 
+          "37.7836156735196"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412541277986", 
+          "37.8019306230854"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.413044905743", 
+          "37.7877023547256"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407425286284", 
+          "37.7795286693942"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.403820763358", 
+          "37.782379364021"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.408271588597", 
+          "37.7788606732698"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443836148578", 
+          "37.7713580994458"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411018516426", 
+          "37.8011697385898"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465418153035", 
+          "37.7450328223765"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465378092995", 
+          "37.7503328411479"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.440546210261", 
+          "37.7717790844454"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.44369460408", 
+          "37.7669542721225"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.40493334701", 
+          "37.7814994947339"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465473889818", 
+          "37.7475041043002"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.463866115565", 
+          "37.7490878076597"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410953740033", 
+          "37.8008329678577"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.407476209488", 
+          "37.7984244459902"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409102097434", 
+          "37.7999674268256"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.406439119348", 
+          "37.7803086282535"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.487150715238", 
+          "37.7837854137321"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.440451957232", 
+          "37.7713132525511"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.438711556879", 
+          "37.7695662304742"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.489827136705", 
+          "37.7836642718514"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465177591329", 
+          "37.7480066953172"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.489289782064", 
+          "37.7836885986962"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443201143002", 
+          "37.77239979189"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411165004738", 
+          "37.8009790436351"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41968886134", 
+          "37.7856629547395"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.487684080225", 
+          "37.7837612771239"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.440736997269", 
+          "37.7668548498471"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.46455515762", 
+          "37.7503664546848"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.466183213431", 
+          "37.7446241560673"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443742616951", 
+          "37.7708922283912"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.462570249675", 
+          "37.7481383554658"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412343613066", 
+          "37.7877903243088"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442377976894", 
+          "37.7725043021796"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419927947729", 
+          "37.786827512819"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465114617955", 
+          "37.7468983833507"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.486482558265", 
+          "37.7819490852283"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464658699011", 
+          "37.746028034343"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41663869696", 
+          "37.7872451962124"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.413718750164", 
+          "37.8027431882129"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465512697029", 
+          "37.746863716116"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41544586807", 
+          "37.8039364943696"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465271451181", 
+          "37.7452541584295"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.420749032612", 
+          "37.7867232329193"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465390751312", 
+          "37.7506595683165"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.469887402089", 
+          "37.7373362920183"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-06-30T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 262", 
+        "start_date": "2017-04-03T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443480387566", 
+          "37.7704479410061"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.4438017801", 
+          "37.7672420920282"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.4860887064", 
+          "37.7838334661934"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464777436777", 
+          "37.7478983351967"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442765193835", 
+          "37.7696612691923"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409654828577", 
+          "37.777765234847"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412735847057", 
+          "37.7877411234135"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443865815453", 
+          "37.7675358381718"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410878082094", 
+          "37.7879771672241"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.486017016442", 
+          "37.7829040365153"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 149", 
+        "start_date": "2018-04-02T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.408441933769", 
+          "37.799093328454"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.443179486722", 
+          "37.7700185963559"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41137627017", 
+          "37.8011251189769"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.419593421346", 
+          "37.785196634061"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.414297764346", 
+          "37.8031427509989"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.442693102258", 
+          "37.765969447648"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.414174694647", 
+          "37.787558710549"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410505752529", 
+          "37.7770921714023"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412724681279", 
+          "37.8020571902849"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41290808534", 
+          "37.8021837573311"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464703845751", 
+          "37.7488305869752"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.465403409392", 
+          "37.7509862954165"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409922649264", 
+          "37.7775533962803"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-11-18T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 556", 
+        "start_date": "2016-06-27T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41827098009", 
+          "37.7870379337297"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464713079345", 
+          "37.7467979500745"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.416989831933", 
+          "37.7872006120938"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464744056006", 
+          "37.7509586269011"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-08-31T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 340", 
+        "start_date": "2016-01-04T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411699232073", 
+          "37.7878721550376"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411958770952", 
+          "37.8015278724292"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-06-29T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 551", 
+        "start_date": "2018-02-05T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.444870487425", 
+          "37.7721878311984"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-08-31T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loop 109", 
+        "start_date": "2017-02-06T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412633524576", 
+          "37.7877539585846"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-28T23:59:00.000", 
+        "project_status": "Planned", 
+        "dpw_project_class": "Electric", 
+        "owner": "PG&E", 
+        "project_id": "RO Streetlight Loops 511 & 528", 
+        "start_date": "2016-09-12T00:00:00.000"
+      }
+    }
+  ]
+}

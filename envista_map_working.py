@@ -122,18 +122,81 @@ def df_2_geojson(df, properties, lat='latitude', lon='longitude'):
 cols = ["project_id", "owner", "dpw_project_class", "project_status", "start_date", "end_date"]
 
 '''
-slices = ["df_comm", "df_curb", "df_electric", "df_gas", "df_landUse",
+sliceStr = ["df_comm", "df_curb", "df_electric", "df_gas", "df_landUse",
           "df_paving", "df_ped", "df_roadway", "df_sewer", "df_storm",
           "df_streetScape", "df_trafficImprove", "df_transit", "df_water"]
 '''
-# %%
+# slices = [df_comm, df_curb]
+         
+
 slices = [df_comm, df_curb, df_electric, df_gas, df_landUse,
           df_paving, df_ped, df_roadway, df_sewer, df_storm,
           df_streetScape, df_trafficImprove, df_transit, df_water]
-# %%
+'''
+not needed, but don't want to delete yet
+sliceStr = ["df_comm", "df_curb", "df_electric", "df_gas", "df_landUse",
+          "df_paving", "df_ped", "df_roadway", "df_sewer", "df_storm",
+          "df_streetScape", "df_trafficImprove", "df_transit", "df_water"]
+'''
+         
+df_comm._metadata = "comm"
+df_curb._metadata = "curb"
+df_electric._metadata = "electric"        
+df_gas._metadata = "gas"
+df_landUse._metadata = "landUse"
+df_paving._metadata = "paving"
+df_ped._metadata = "ped"
+df_roadway._metadata = "roadway"
+df_sewer._metadata = "sewer"
+df_storm._metadata = "storm"
+df_streetScape._metadata = "streetScape"
+df_trafficImprove._metadata = "trafficImprove"
+df_transit._metadata = "transit"
+df_water._metadata = "water"
+
 for slice in slices:
+    print(slice._metadata)
     geojson = df_2_geojson(slice, cols)
-    output_filename = 'envista_' + str(slice) + '.geojson'
+    output_filename = 'envista_' + slice._metadata + '.geojson'
     with open(output_filename, 'wb') as output_file:
         output_file.write('')
         json.dump(geojson, output_file, indent=2)
+        
+# %%
+# Looking at timing of when things done
+        
+df_util.project_status.value_counts()
+# %%
+# slicing data up by project status
+df_planned = df_util[df_util.project_status == "Planned"]
+df_committed = df_util[df_util.project_status == "Committed"]
+df_started = df_util[df_util.project_status == "Started"]
+df_completed = df_util[df_util.project_status == "Completed"]
+
+# %%
+df_planned.dpw_project_class.value_counts()
+df_committed.dpw_project_class.value_counts()
+df_started.dpw_project_class.value_counts()
+df_completed.dpw_project_class.value_counts()
+# all completed projects are "roadway" projects
+
+
+df_completed.describe() # does not work
+# %%
+# creating geojsons
+slices2 = [df_planned, df_committed, df_started, df_completed]
+
+df_planned._metadata = "planned"
+df_committed._metadata = "committed"
+df_started._metadata = "started"
+df_completed._metadata = "completed"
+
+
+for slice2 in slices2:
+    print(slice2._metadata)
+    geojson = df_2_geojson(slice2, cols)
+    output_filename = 'envista_' + slice2._metadata + '.geojson'
+    with open(output_filename, 'wb') as output_file:
+        output_file.write('')
+        json.dump(geojson, output_file, indent=2)
+        

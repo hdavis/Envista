@@ -1,0 +1,1247 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.397152316959", 
+          "37.7894262659922"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_6", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.424731259286", 
+          "37.8022809697351"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-12-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0581_SI_1", 
+        "start_date": "2017-01-31T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.431311321218", 
+          "37.8014449214639"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-12-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0581_SI_2", 
+        "start_date": "2017-01-31T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.413649646008", 
+          "37.7933277596828"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-03-01T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Mechanical\\Electrical", 
+        "project_id": "DPW0592_SI_1", 
+        "start_date": "2017-09-23T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.451865727049", 
+          "37.7693786497175"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_14", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.436273910527", 
+          "37.8008141303368"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-12-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0581_SI_4", 
+        "start_date": "2017-01-31T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.449645156101", 
+          "37.7696618551016"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_11", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411050606609", 
+          "37.7971363656483"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399502163478", 
+          "37.7866335289042"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0642_SI_4", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.39713208361", 
+          "37.7901118201535"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_8", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.464042005627", 
+          "37.7622688349146"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.448578816661", 
+          "37.7697978373233"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_10", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41331341607", 
+          "37.8024634735195"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2019-11-01T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0638_SI_2", 
+        "start_date": "2017-11-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.451287954301", 
+          "37.7694523416305"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_6", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.453536875319", 
+          "37.7691652113532"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_15", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.450463578082", 
+          "37.7695574811579"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_5", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.445344989964", 
+          "37.770210161061"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_9", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410162291295", 
+          "37.7969195939211"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.44993106602", 
+          "37.769625393551"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_4", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.415178112159", 
+          "37.7967141039856"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.398564293217", 
+          "37.7889811597228"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0642_SI_5", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.397756520004", 
+          "37.7899076194094"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_4", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.446139405672", 
+          "37.7701088790638"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_1", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.450216975549", 
+          "37.7695889311163"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_13", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.39668969469", 
+          "37.790461054396"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-25T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0651_SI_1", 
+        "start_date": "2016-10-18T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.396983588324", 
+          "37.787785745505"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0642_SI_1", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.417803423265", 
+          "37.8055734969199"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2019-11-01T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0638_SI_3", 
+        "start_date": "2017-11-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41517281947", 
+          "37.7966869638287"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.448866265584", 
+          "37.7315429455018"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409689043709", 
+          "37.7974931383828"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.397477065088", 
+          "37.791088552012"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_7", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.414470074537", 
+          "37.7932231325903"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-03-01T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Mechanical\\Electrical", 
+        "project_id": "DPW0592_SI_2", 
+        "start_date": "2017-09-23T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399141489286", 
+          "37.7869149429086"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0642_SI_2", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.439504171593", 
+          "37.8004034161094"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-12-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0581_SI_5", 
+        "start_date": "2017-01-31T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.452701302318", 
+          "37.7692719336084"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_7", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.398264448664", 
+          "37.7917160447682"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_9", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.436273910527", 
+          "37.8008141303368"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.449111986803", 
+          "37.7697298475432"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_3", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.399864504556", 
+          "37.7863478497878"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0642_SI_3", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.418465026692", 
+          "37.7879662722832"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.398869053967", 
+          "37.7907939239275"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_1", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410212907843", 
+          "37.7971698830598"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411992011951", 
+          "37.7976487022236"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41180353927", 
+          "37.7967114649247"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.447756318962", 
+          "37.7699027174723"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_2", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.437045612216", 
+          "37.7712674105177"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.412724681279", 
+          "37.8020571902849"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2019-11-01T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0638_SI_1", 
+        "start_date": "2017-11-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.39742215327", 
+          "37.7896412391709"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_5", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.397574468234", 
+          "37.7897625843413"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-25T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0651_SI_2", 
+        "start_date": "2016-10-18T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.39837460091", 
+          "37.7903999964569"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_2", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.398049132057", 
+          "37.7901407175133"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-10-05T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0641_SI_3", 
+        "start_date": "2016-09-28T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.405581425313", 
+          "37.7424567384647"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-11T00:00:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0553_SI_1", 
+        "start_date": "2016-05-16T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410359840861", 
+          "37.7978964312333"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.450710180262", 
+          "37.7695260304661"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_12", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.484460652032", 
+          "37.7763021533563"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.434602344765", 
+          "37.8010266264098"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-12-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0581_SI_3", 
+        "start_date": "2017-01-31T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.446933819074", 
+          "37.7700075916592"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2018-07-31T00:00:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF DPW IDC - Streets & Highways", 
+        "project_id": "DPW0524_SI_8", 
+        "start_date": "2017-06-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.409976284362", 
+          "37.7974566556377"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411899821401", 
+          "37.7526285763802"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410764827881", 
+          "37.7832142991472"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411885657263", 
+          "37.7888075301228"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.434798413138", 
+          "37.7246825407438"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41775319326", 
+          "37.7698150653894"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411888141616", 
+          "37.7971321786384"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.410263524598", 
+          "37.7974201723048"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.395813421286", 
+          "37.79115279459"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.41045615847", 
+          "37.7983726903142"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.476169188868", 
+          "37.7804758361613"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-02-04T23:59:00.000", 
+        "project_status": "Committed", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Transportation Engineering (Capital)", 
+        "project_id": "2014-05-SP", 
+        "start_date": "2016-05-01T00:00:00.000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.411072544086", 
+          "37.797315882479"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2016-12-01T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Pedestrian Safety", 
+        "owner": "SF MTA SS - Livable Streets", 
+        "project_id": "4800", 
+        "start_date": "2014-07-01T00:00:00.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "-122.47492006191", 
+          "37.7627249536596"
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "end_date": "2017-01-20T23:59:00.000", 
+        "project_status": "Started", 
+        "dpw_project_class": "Communication", 
+        "owner": "AT&T - Construction and Engineering", 
+        "project_id": "58C", 
+        "start_date": "2014-08-05T00:00:00.000"
+      }
+    }
+  ]
+}
