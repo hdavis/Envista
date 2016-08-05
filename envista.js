@@ -95,7 +95,7 @@ $.ajax({
     }
 }).error(function() {});
   
-//envista_proj.addLayer();
+envista_proj.addLayer();
 
 var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
