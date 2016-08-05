@@ -95,10 +95,12 @@ $.ajax({
     }
 }).error(function() {});
   
-var clusters = L.MarkerClusterGroup();
-clusters.addLayers(envista_proj);
-//clusters.addLayer(envista_proj);
-map.addLayer(clusters);
+//envista_proj.addLayer();
+
+var markers = L.markerClusterGroup();
+markers.addLayer(envista_proj);
+
+map.addLayer(markers);
 
 
 ////////-------------
