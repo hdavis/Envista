@@ -44,8 +44,8 @@ map.addLayer(OpenMapSurfer_Roads);
 
 ///===========
 var smallIcon = new L.Icon({
-    iconUrl: 'icons/pin-2_dk_blue.svg', // was using 'icons/placeholder-29.svg'
-    iconRetinaUrl: 'icons/pin-2_dk_blue.svg',
+    iconUrl: 'icons/pin-1_dk_blue.svg', // was using 'icons/placeholder-29.svg'
+    iconRetinaUrl: 'icons/pin-1_dk_blue.svg',
     iconSize:    [34, 34], // size of the icon
     iconAnchor:  [12, 30], // point of the icon which will correspond to marker's location
     popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
