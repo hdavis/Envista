@@ -79,7 +79,8 @@ envista_proj.addTo(map);
 
 $.ajax({
     dataType: "json",
-    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
+//    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
+    url: "envista.geojson",
     success: function(data) {
         $(data.features).each(function(key, data) { 
             envista_proj.addData(data);
