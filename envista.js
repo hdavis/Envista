@@ -79,7 +79,8 @@ var envista_proj = new L.geoJson(null, {
 //envista_proj.addTo(map);
 
 var clusters = L.MarkerClusterGroup();
-clusters.addLayer(envista_proj);
+clusters.addLayers(envista_proj);
+//clusters.addLayer(envista_proj);
 map.addLayer(clusters);
 
 
