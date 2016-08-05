@@ -15,7 +15,7 @@ var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-m
 maxZoom: zoommax,
 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
-//map.addLayer(OpenStreetMap_BlackAndWhite);
+map.addLayer(OpenStreetMap_BlackAndWhite);
 
 
 // Open Map Surfer Roads Basemap
@@ -23,7 +23,7 @@ var OpenMapSurfer_Roads = L.tileLayer('http://korona.geog.uni-heidelberg.de/tile
 maxZoom: zoommax,
 attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
-map.addLayer(OpenMapSurfer_Roads);
+//map.addLayer(OpenMapSurfer_Roads);
 
 
 // OVERLAYS
@@ -49,9 +49,9 @@ var smallIcon = new L.Icon({
     iconSize:    [34, 34], // size of the icon
     iconAnchor:  [12, 30], // point of the icon which will correspond to marker's location
     popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
-    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-    shadowSize:  [41, 41], // size of the shadow
-    shadowAnchor: [7, 37],  // point of the shadow which will correspond to shadow's location
+//    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+//    shadowSize:  [41, 41], // size of the shadow
+//    shadowAnchor: [7, 37],  // point of the shadow which will correspond to shadow's location
 });
 
 function onEachFeature(feature, layer) {
