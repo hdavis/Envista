@@ -96,8 +96,8 @@ $.ajax({
 }).error(function() {});
   
 var clusters = L.MarkerClusterGroup();
-//clusters.addLayers(envista_proj);
-clusters.addLayer(envista_proj);
+clusters.addLayers(envista_proj);
+//clusters.addLayer(envista_proj);
 map.addLayer(clusters);
 
 
