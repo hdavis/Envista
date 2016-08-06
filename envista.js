@@ -120,10 +120,11 @@ var geojson = L.geoJson(geojsonSample, {
 //markers.addLayer(envista_proj);
 //map.addLayer(markers);
 
+// with cluster group here - layer control does not work properly
+// cluster on in intial load, layer checkbox is off.
+// if turn check box on, points show up as well as cluster
 var markers = L.markerClusterGroup();
-
 markers.addLayer(geojson);
-
 map.addLayer(markers);
 
 ////////-------------
@@ -135,9 +136,16 @@ var baseLayers = {
 };
 var overlays = {
     //"Construction Projects": envista_proj,
-    "Construction Projects": geojson,
+    //"Construction Projects": geojson,
+    "Construction Projects": markers,
 };
 L.control.layers(baseLayers, overlays).addTo(map);
+
+
+//var markers = L.markerClusterGroup();
+//markers.addLayer(geojson);
+//map.addLayer(markers);
+
 
 map.setView([initLat, initLong], initZoomLevel);
 
