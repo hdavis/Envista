@@ -113,14 +113,26 @@ $.ajax({
 //markers.addLayer(envista_proj);
 //map.addLayer(markers);
 
-map.addLayer(geojson);
 
 ////////// THIS IS WHERE THE CODE WORKED ON THE EXAMPLE DATA
-// var markers = L.markerClusterGroup();
+var markers = L.markerClusterGroup();
+
 // markers.addLayer(geojson);
 // map.addLayer(markers);
 
 ////////-------------
+
+geojson.on('data:loaded', function () {
+    markers.addLayer(geojson);
+    console.log(markers);
+    map.addLayer(markers);
+}
+
+// barLayer.on('data:loaded', function () {
+//     markers.addLayer(barLayer);
+//     console.log(markersBar);
+//     map.addLayer(markersBar);
+// }
 
 // Define and display the control for Basemaps and Overlays
 var baseLayers = {
