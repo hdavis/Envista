@@ -55,7 +55,7 @@ var smallIcon = new L.Icon({
 });
 
 function onEachFeature(feature, layer) {
-    //console.log(feature);
+    console.log(feature);
     var popupText = "<strong>Envista Construction Project</strong>"
                 + "<br>Project Status: " + feature.properties.project_status
                 + "<br>Project Class: " + feature.properties.dwp_project_class
@@ -68,19 +68,21 @@ function onEachFeature(feature, layer) {
 
 var envista_proj = new L.geoJson(null, {
     pointToLayer: function(feature, latlng) {
-        //console.log(latlng, feature);
+        console.log(latlng, feature);
         return L.marker(latlng, {
           icon: smallIcon
         });
       },
       onEachFeature: onEachFeature
 });
-//envista_proj.addTo(map);
+
 
 var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
 map.addLayer(markers);
 
+markers.addTo(map);
+//envista_proj.addTo(map);
 
 $.ajax({
     dataType: "json",
