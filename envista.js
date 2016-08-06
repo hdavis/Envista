@@ -120,4 +120,4 @@ var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
 map.addLayer(markers);
 
-envista_proj.addTo(map);
+markers.addTo(map);
