@@ -87,7 +87,8 @@ var envista_proj = new L.geoJson(null, {
 $.ajax({
     dataType: "json",
 //    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
-    url: "envista.geojson",
+    url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
+//    url: "envista.geojson",
     success: function(data) {
         $(data.features).each(function(key, data) { 
             envista_proj.addData(data);
@@ -120,4 +121,4 @@ var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
 map.addLayer(markers);
 
-markers.addTo(map);
+//markers.addTo(map);
