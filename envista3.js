@@ -67,16 +67,12 @@ var envista_proj = new L.geoJson(null, {
 });
 //envista_proj.addTo(map);
 
-var markers = L.markerClusterGroup();
-markers.addLayer(envista_proj);
-map.addLayer(markers);
-
 
 $.ajax({
     dataType: "json",
 //    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
-    url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
-//    url: "envista.geojson",
+    //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
+    url: "envista.geojson",
     success: function(data) {
         $(data.features).each(function(key, data) { 
             envista_proj.addData(data);
@@ -100,10 +96,11 @@ $.ajax({
 //});
 ////////////////
 
-//var markers = L.markerClusterGroup();
-//markers.addLayer(envista_proj);
-//map.addLayer(markers);
+var markers = L.markerClusterGroup();
+markers.addLayer(envista_proj);
+map.addLayer(markers);
 
+////////// THIS IS WHERE THE CODE WORKED ON THE EXAMPLE DATA
 //var markers = L.markerClusterGroup();
 //markers.addLayer(geojson);
 //map.addLayer(markers);
@@ -127,6 +124,9 @@ L.control.layers(baseLayers, overlays).addTo(map);
 //markers.addLayer(geojson);
 //map.addLayer(markers);
 
+//var markers = L.markerClusterGroup();
+//markers.addLayer(envista_proj);
+//map.addLayer(markers);
 
 map.setView([initLat, initLong], initZoomLevel);
 
