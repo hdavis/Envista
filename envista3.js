@@ -81,6 +81,9 @@ var smallIcon = new L.Icon({
 //    }
 //}).error(function() {});
 
+
+var markers = L.markerClusterGroup();
+
 ///////////
 var geojson = L.geoJson(null, {
     style: function (feature) {
@@ -115,7 +118,7 @@ $.ajax({
 
 
 ////////// THIS IS WHERE THE CODE WORKED ON THE EXAMPLE DATA
-var markers = L.markerClusterGroup();
+//var markers = L.markerClusterGroup();
 
 // markers.addLayer(geojson);
 // map.addLayer(markers);
