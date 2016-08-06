@@ -68,7 +68,7 @@ function onEachFeature(feature, layer) {
 
 var envista_proj = new L.geoJson(null, {
     pointToLayer: function(feature, latlng) {
-        console.log(latlng, feature);
+        //console.log(latlng, feature);
         return L.marker(latlng, {
           icon: smallIcon
         });
@@ -95,7 +95,7 @@ $.ajax({
     }
 }).error(function() {});
   
-envista_proj.addLayer();
+//envista_proj.addLayer();
 
 var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
