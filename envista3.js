@@ -126,7 +126,7 @@ geojson.on('data:loaded', function () {
     markers.addLayer(geojson);
     console.log(markers);
     map.addLayer(markers);
-}
+});
 
 // barLayer.on('data:loaded', function () {
 //     markers.addLayer(barLayer);
