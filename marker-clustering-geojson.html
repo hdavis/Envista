@@ -52,8 +52,9 @@
 //		]);
 		
 		var markers = L.markerClusterGroup();
-		markers.addLayer(geojson).addLayers([eye1,eye2,nose,mouth]);
-		
+		//markers.addLayer(geojson).addLayers([eye1,eye2,nose,mouth]);
+		markers.addLayer(geojson);
+        
 		map.addLayer(markers);
 	</script>
 </body>
