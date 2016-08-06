@@ -129,8 +129,8 @@ var baseLayers = {
 };
 var overlays = {
     //"Construction Projects": envista_proj,
-    //"Construction Projects": geojson,
-    "Construction Projects": markers,
+    "Construction Projects": geojson,
+    //"Construction Projects": markers,
 };
 L.control.layers(baseLayers, overlays).addTo(map);
 
