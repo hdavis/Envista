@@ -58,7 +58,7 @@ function onEachFeature(feature, layer) {
     console.log(feature);
     var popupText = "<strong>Envista Construction Project</strong>"
                 + "<br>Project Status: " + feature.properties.project_status
-                + "<br>Project Class: " + feature.properties.dwp_project_class
+                + "<br>Project Class: " + feature.properties.dpw_project_class
                 + "<br>Owner: " + feature.properties.owner
                 + "<br>Project ID: " + feature.properties.project_id
                 + "<br>Start Date: " + feature.properties.start_date

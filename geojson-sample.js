@@ -20,7 +20,7 @@ var geojsonSample = {
 			},
 			"properties": {
 				"prop0": "value0",
-				"color": "blue"
+				"color": "black"
 			}
 		},
         {
@@ -31,7 +31,7 @@ var geojsonSample = {
 			},
 			"properties": {
 				"prop0": "value0",
-				"color": "blue"
+				"color": "purple"
 			}
 		},
         {
@@ -42,7 +42,7 @@ var geojsonSample = {
 			},
 			"properties": {
 				"prop0": "value0",
-				"color": "blue"
+				"color": "red"
 			}
 		},
         {
@@ -53,7 +53,7 @@ var geojsonSample = {
 			},
 			"properties": {
 				"prop0": "value0",
-				"color": "blue"
+				"color": "green"
 			}
 		},
         {
@@ -64,7 +64,7 @@ var geojsonSample = {
 			},
 			"properties": {
 				"prop0": "value0",
-				"color": "blue"
+				"color": "yellow"
 			}
 		},
         {
