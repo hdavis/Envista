@@ -120,6 +120,11 @@ var geojson = L.geoJson(geojsonSample, {
 //markers.addLayer(envista_proj);
 //map.addLayer(markers);
 
+var markers = L.markerClusterGroup();
+
+markers.addLayer(geojson);
+
+map.addLayer(markers);
 
 ////////-------------
 
@@ -140,10 +145,6 @@ map.setView([initLat, initLong], initZoomLevel);
 //markers.addLayer(envista_proj);
 //map.addLayer(markers);
 
-var markers = L.markerClusterGroup();
 
-markers.addLayer(geojson);
-
-map.addLayer(markers);
 
 //markers.addTo(map);
