@@ -67,11 +67,9 @@ var envista_proj = new L.geoJson(null, {
 });
 //envista_proj.addTo(map);
 
-//var markers = L.markerClusterGroup();
-//markers.addLayer(envista_proj);
-//map.addLayer(markers);
-
-//markers.addTo(map);
+var markers = L.markerClusterGroup();
+markers.addLayer(envista_proj);
+map.addLayer(markers);
 
 
 $.ajax({
@@ -102,9 +100,9 @@ $.ajax({
 //});
 ////////////////
 
-var markers = L.markerClusterGroup();
-markers.addLayer(envista_proj);
-map.addLayer(markers);
+//var markers = L.markerClusterGroup();
+//markers.addLayer(envista_proj);
+//map.addLayer(markers);
 
 //var markers = L.markerClusterGroup();
 //markers.addLayer(geojson);
