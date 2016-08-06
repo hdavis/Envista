@@ -67,6 +67,7 @@ var geojsonSample = {
 				"color": "yellow"
 			}
 		},
+        
         {
 			"type": "Feature",
 			"geometry": {

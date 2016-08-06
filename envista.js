@@ -4,9 +4,9 @@ var initLat = 0.78;
 var initLong = 102.37;
 var initZoomLevel = 7;
 
-//var initLat = 38;
-//var initLong = -98;
-//var initZoomLevel = 4;
+//var initLat = 37.759313;
+//var initLong = -122.441815;
+//var initZoomLevel = 13;
 var zoommax = 18;
 
 var map = L.map('map');
@@ -19,7 +19,7 @@ var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-m
 maxZoom: zoommax,
 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
-map.addLayer(OpenStreetMap_BlackAndWhite);
+//map.addLayer(OpenStreetMap_BlackAndWhite);
 
 
 // Open Map Surfer Roads Basemap
@@ -27,7 +27,7 @@ var OpenMapSurfer_Roads = L.tileLayer('http://korona.geog.uni-heidelberg.de/tile
 maxZoom: zoommax,
 attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
-//map.addLayer(OpenMapSurfer_Roads);
+map.addLayer(OpenMapSurfer_Roads);
 
 
 // OVERLAYS
@@ -134,7 +134,7 @@ var overlays = {
 };
 L.control.layers(baseLayers, overlays).addTo(map);
 
-map.setView([37.759313, -122.441815], 13);
+map.setView([initLat, initLong], initZoomLevel);
 
 //var markers = L.markerClusterGroup();
 //markers.addLayer(envista_proj);
