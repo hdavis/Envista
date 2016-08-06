@@ -74,10 +74,10 @@ var smallIcon = new L.Icon({
 //    //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
 //    url: "envista.geojson",
 //    success: function(data) {
-//        $(data.features).each(function(key, data) { 
+//        $(data.features).each(function(key, data) {
 //            envista_proj.addData(data);
 //        });
-//        
+//
 //    }
 //}).error(function() {});
 
@@ -102,10 +102,10 @@ $.ajax({
     //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
     url: "sample.geojson",
     success: function(data) {
-        $(data.features).each(function(key, data) { 
+        $(data.features).each(function(key, data) {
             geojson.addData(data);
         });
-        
+
     }
 }).error(function() {});
 
@@ -113,10 +113,12 @@ $.ajax({
 //markers.addLayer(envista_proj);
 //map.addLayer(markers);
 
+map.addLayer(geojson);
+
 ////////// THIS IS WHERE THE CODE WORKED ON THE EXAMPLE DATA
-var markers = L.markerClusterGroup();
-markers.addLayer(geojson);
-map.addLayer(markers);
+// var markers = L.markerClusterGroup();
+// markers.addLayer(geojson);
+// map.addLayer(markers);
 
 ////////-------------
 
