@@ -119,3 +119,5 @@ map.setView([37.759313, -122.441815], 13);
 var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
 map.addLayer(markers);
+
+envista_proj.addTo(map);
