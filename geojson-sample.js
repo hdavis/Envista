@@ -12,8 +12,62 @@ var geojsonSample = {
 				"color": "blue"
 			}
 		},
-
 		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.01, 0.51]
+			},
+			"properties": {
+				"prop0": "value0",
+				"color": "blue"
+			}
+		},
+        {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.0, 0.52]
+			},
+			"properties": {
+				"prop0": "value0",
+				"color": "blue"
+			}
+		},
+        {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.01, 0.53]
+			},
+			"properties": {
+				"prop0": "value0",
+				"color": "blue"
+			}
+		},
+        {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.0, 0.54]
+			},
+			"properties": {
+				"prop0": "value0",
+				"color": "blue"
+			}
+		},
+        {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.01, 0.55]
+			},
+			"properties": {
+				"prop0": "value0",
+				"color": "blue"
+			}
+		},
+        {
 			"type": "Feature",
 			"geometry": {
 				"type": "LineString",
