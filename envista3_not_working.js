@@ -1,12 +1,12 @@
 'use strict';
 
-var initLat = 0.78;
-var initLong = 102.37;
-var initZoomLevel = 7;
+//var initLat = 0.78;
+//var initLong = 102.37;
+//var initZoomLevel = 7;
 
-//var initLat = 37.759313;
-//var initLong = -122.441815;
-//var initZoomLevel = 13;
+var initLat = 37.759313;
+var initLong = -122.441815;
+var initZoomLevel = 13;
 var zoommax = 18;
 
 var map = L.map('map');
@@ -44,79 +44,66 @@ var smallIcon = new L.Icon({
 //    shadowAnchor: [7, 37],  // point of the shadow which will correspond to shadow's location
 });
 
-//function onEachFeature(feature, layer) {
-//    console.log(feature);
-//    var popupText = "<strong>Envista Construction Project</strong>"
-//                + "<br>Project Status: " + feature.properties.project_status
-//                + "<br>Project Class: " + feature.properties.dpw_project_class
-//                + "<br>Owner: " + feature.properties.owner
-//                + "<br>Project ID: " + feature.properties.project_id
-//                + "<br>Start Date: " + feature.properties.start_date
-//                + "<br>End Date: " + feature.properties.end_date;
-//    layer.bindPopup(popupText);
-//}
-//
-//var envista_proj = new L.geoJson(null, {
-//    pointToLayer: function(feature, latlng) {
-//        console.log(latlng, feature);
-//        return L.marker(latlng, {
-//          icon: smallIcon
-//        });
-//      },
-//      onEachFeature: onEachFeature
-//});
-////envista_proj.addTo(map);
+function onEachFeature(feature, layer) {
+    console.log(feature);
+    var popupText = "<strong>Envista Construction Project</strong>"
+                + "<br>Project Status: " + feature.properties.project_status
+                + "<br>Project Class: " + feature.properties.dpw_project_class
+                + "<br>Owner: " + feature.properties.owner
+                + "<br>Project ID: " + feature.properties.project_id
+                + "<br>Start Date: " + feature.properties.start_date
+                + "<br>End Date: " + feature.properties.end_date;
+    layer.bindPopup(popupText);
+}
 
-// Original .ajax code
-//$.ajax({
-//    dataType: "json",
-////    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
-//    //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
-//    url: "envista.geojson",
-//    success: function(data) {
-//        $(data.features).each(function(key, data) { 
-//            envista_proj.addData(data);
-//        });
-//        
-//    }
-//}).error(function() {});
-
-///////////
-var geojson = L.geoJson(null, {
-    style: function (feature) {
-        return {color: feature.properties.color};
-    },
-    onEachFeature: function (feature, layer) {
-        var popupText = 'geometry type: ' + feature.geometry.type;
-        if (feature.properties.color) {
-            popupText += '<br/>color: ' + feature.properties.color;
-        }
-        layer.bindPopup(popupText);
-    }
+var envista_proj = new L.geoJson(null, {
+    pointToLayer: function(feature, latlng) {
+        console.log(latlng, feature);
+        return L.marker(latlng, {
+          icon: smallIcon
+        });
+      },
+      onEachFeature: onEachFeature
 });
-//////////////
+//envista_proj.addTo(map);
+
 
 $.ajax({
     dataType: "json",
 //    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
     //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
-    url: "sample.geojson",
+    url: "envista.geojson",
     success: function(data) {
         $(data.features).each(function(key, data) { 
-            geojson.addData(data);
+            envista_proj.addData(data);
         });
         
     }
 }).error(function() {});
 
-//var markers = L.markerClusterGroup();
-//markers.addLayer(envista_proj);
-//map.addLayer(markers);
+/////////////
+//var geojson = L.geoJson(geojsonSample, {
+//    style: function (feature) {
+//        return {color: feature.properties.color};
+//    },
+//    onEachFeature: function (feature, layer) {
+//        var popupText = 'geometry type: ' + feature.geometry.type;
+//        if (feature.properties.color) {
+//            popupText += '<br/>color: ' + feature.properties.color;
+//        }
+//        layer.bindPopup(popupText);
+//    }
+//});
+////////////////
+
+var markers = L.markerClusterGroup();
+markers.addLayer(envista_proj);
+map.addLayer(markers);
 
 ////////// THIS IS WHERE THE CODE WORKED ON THE EXAMPLE DATA
-var markers = L.markerClusterGroup();
-markers.addLayer(geojson);
-map.addLayer(markers);
+//var markers = L.markerClusterGroup();
+//markers.addLayer(geojson);
+//map.addLayer(markers);
 
 ////////-------------
 
