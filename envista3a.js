@@ -85,7 +85,7 @@ var smallIcon = new L.Icon({
 var markers = L.markerClusterGroup();
 
 ///////////
-var geojson = L.geoJson(null, {
+var geojson = new L.geoJSON.AJAX("sample.geojson", {
     style: function (feature) {
         return {color: feature.properties.color};
     },
@@ -99,18 +99,18 @@ var geojson = L.geoJson(null, {
 });
 //////////////
 
-$.ajax({
-    dataType: "json",
-//    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
-    //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
-    url: "sample.geojson",
-    success: function(data) {
-        $(data.features).each(function(key, data) {
-            geojson.addData(data);
-        });
-
-    }
-}).error(function() {});
+// $.ajax({
+//     dataType: "json",
+// //    url: "https://data.sfgov.org/resource/dsie-4zfb.geojson",
+//     //url: "https://data.sfgov.org/resource/vad7-rtjc.geojson", // smaller dataset
+//     url: "sample.geojson",
+//     success: function(data) {
+//         $(data.features).each(function(key, data) {
+//             geojson.addData(data);
+//         });
+//
+//     }
+// }).error(function() {});
 
 //var markers = L.markerClusterGroup();
 //markers.addLayer(envista_proj);
