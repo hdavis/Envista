@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Bar Example</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+
+<script>
+
+var markersBar = L.markerClusterGroup();
+var barLayer = new L.GeoJSON.AJAX("json/eat_drink/bar.geojson", {
+    pointToLayer: function(feature, latlng) {
+        var icon = L.icon({
+                        iconSize: [27, 27],
+                        iconAnchor: [13, 27],
+                        popupAnchor:  [1, -24],
+                        iconUrl: 'icon/' + feature.properties.amenity + '.png'
+                        });
+        return L.marker(latlng, {icon: icon})
+    },
+    onEachFeature: function(feature, layer) {
+        layer.bindPopup(feature.properties.name + ': ' + feature.properties.opening_hours);
+    }
+});
+// markersBar.addLayer(barLayer);
+// console.log(markersBar);
+// map.addLayer(markersBar);
+
+///////////////
+barLayer.on('data:loaded', function () {
+    markersBar.addLayer(barLayer);
+    console.log(markersBar);
+    map.addLayer(markersBar);
+}
+
+</script>
+</body>
+</html>
