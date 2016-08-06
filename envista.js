@@ -75,7 +75,12 @@ var envista_proj = new L.geoJson(null, {
       },
       onEachFeature: onEachFeature
 });
-envista_proj.addTo(map);
+
+//var markers = L.markerClusterGroup();
+//markers.addLayer(envista_proj);
+//map.addLayer(markers);
+
+//envista_proj.addTo(map);
 
 //var clusters = L.MarkerClusterGroup();
 ////clusters.addLayers(envista_proj);
@@ -99,7 +104,6 @@ $.ajax({
 
 var markers = L.markerClusterGroup();
 markers.addLayer(envista_proj);
-
 map.addLayer(markers);
 
 
