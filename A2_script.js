@@ -16,17 +16,8 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
   var initZoomLevel = 12;
   var zoommax = 18;
 //=====================
-  var map = L.map('map');
 
-  // BASEMAPS
-  // Additional basemaps @ https://leaflet-extras.github.io/leaflet-providers/preview/
 
-  // OpenStreetMap Black and White basemap
-  var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-  maxZoom: zoommax,
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  });
-  map.addLayer(OpenStreetMap_BlackAndWhite);
 
   // var MapBox = L.tileLayer('http://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
   // 	attribution: 'Imagery from <a href="http://mapbox.com/about/maps/">MapBox</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -166,5 +157,17 @@ function onEachFeature(feature, layer) {
 //         });
 //     }
 // ]);
+
+var map = L.map('map');
+
+// BASEMAPS
+// Additional basemaps @ https://leaflet-extras.github.io/leaflet-providers/preview/
+
+// OpenStreetMap Black and White basemap
+var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+maxZoom: zoommax,
+attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+map.addLayer(OpenStreetMap_BlackAndWhite);
 
 map.setView([initLat, initLong], initZoomLevel);
