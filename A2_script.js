@@ -125,7 +125,7 @@ function onEachFeature(feature, layer) {
 }]);
 
 //mapoptions
-myApp.controller("GoogleMapsController", ["$scope",
+app.controller("GoogleMapsController", ["$scope",
     function($scope) {
         angular.extend($scope, {
             world: {
