@@ -19,11 +19,11 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       lng: -0.09,
       zoom: 8
     },
-    pointToLayer: function(feature,latlng){
-        var marker = L.marker(latlng,{icon: ratIcon});
-        marker.bindPopup(feature.properties.Location + '<br/>' + feature.properties.OPEN_DT);
-        return marker;
-    }
+    // pointToLayer: function(feature,latlng){
+    //     var marker = L.marker(latlng,{icon: ratIcon});
+    //     marker.bindPopup(feature.properties.Location + '<br/>' + feature.properties.OPEN_DT);
+    //     return marker;
+    // }
   });
 
   $http.get("A1_test.geojson").success(function(data, status) {
