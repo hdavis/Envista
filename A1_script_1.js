@@ -28,7 +28,8 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
   });
 
   //$http.get("envista.geojson").success(function(data, status) {
-  $http.get("https://data.sfgov.org/resource/vad7-rtjc.geojson").success(function(data, status) {
+  //$http.get("https://data.sfgov.org/resource/vad7-rtjc.geojson").success(function(data, status) { // smaller dataset
+  $http.get("https://data.sfgov.org/resource/dsie-4zfb.geojson").success(function(data, status) {
     angular.extend($scope, {
 	    geojson: {
         // pointToLayer: function(feature,latlng){
