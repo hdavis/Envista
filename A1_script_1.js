@@ -13,11 +13,17 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
   });
 
+  /// Putting new code here:
+  var initLat = 37.759313;
+  var initLong = -122.441815;
+  var initZoomLevel = 13;
+  var zoommax = 18;
+
   angular.extend($scope, {
-    london: {
-      lat: 51.505,
-      lng: -0.09,
-      zoom: 8
+    SanFrancisco: {
+      lat: initLat,
+      lng: initLong,
+      zoom: initZoomLevel
     },
     // pointToLayer: function(feature,latlng){
     //     var marker = L.marker(latlng,{icon: ratIcon});
@@ -26,7 +32,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
     // }
   });
 
-  $http.get("A1_test.geojson").success(function(data, status) {
+  $http.get("envista.geojson").success(function(data, status) {
     angular.extend($scope, {
 	    geojson: {
         // pointToLayer: function(feature,latlng){
@@ -37,11 +43,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 		});
   });
 
-/// Putting new code here:
-var initLat = 37.759313;
-var initLong = -122.441815;
-var initZoomLevel = 13;
-var zoommax = 18;
+
 
 // BASEMAPS
 
@@ -49,14 +51,14 @@ var zoommax = 18;
 
 function onEachFeature(feature, layer) {
    console.log(feature);
-  //  var popupText = "<strong>Envista Construction Project</strong>"
-  //              + "<br>Project Status: " + feature.properties.project_status
-  //              + "<br>Project Class: " + feature.properties.dpw_project_class
-  //              + "<br>Owner: " + feature.properties.owner
-  //              + "<br>Project ID: " + feature.properties.project_id
-  //              + "<br>Start Date: " + feature.properties.start_date
-  //              + "<br>End Date: " + feature.properties.end_date;
-    var popupText = feature.properties.name;
+   var popupText = "<strong>Envista Construction Project</strong>"
+               + "<br>Project Status: " + feature.properties.project_status
+               + "<br>Project Class: " + feature.properties.dpw_project_class
+               + "<br>Owner: " + feature.properties.owner
+               + "<br>Project ID: " + feature.properties.project_id
+               + "<br>Start Date: " + feature.properties.start_date
+               + "<br>End Date: " + feature.properties.end_date;
+    //var popupText = feature.properties.name;
    layer.bindPopup(popupText);
 }
 
