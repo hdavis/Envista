@@ -49,13 +49,14 @@ var zoommax = 18;
 
 function onEachFeature(feature, layer) {
    console.log(feature);
-   var popupText = "<strong>Envista Construction Project</strong>"
-               + "<br>Project Status: " + feature.properties.project_status
-               + "<br>Project Class: " + feature.properties.dpw_project_class
-               + "<br>Owner: " + feature.properties.owner
-               + "<br>Project ID: " + feature.properties.project_id
-               + "<br>Start Date: " + feature.properties.start_date
-               + "<br>End Date: " + feature.properties.end_date;
+  //  var popupText = "<strong>Envista Construction Project</strong>"
+  //              + "<br>Project Status: " + feature.properties.project_status
+  //              + "<br>Project Class: " + feature.properties.dpw_project_class
+  //              + "<br>Owner: " + feature.properties.owner
+  //              + "<br>Project ID: " + feature.properties.project_id
+  //              + "<br>Start Date: " + feature.properties.start_date
+  //              + "<br>End Date: " + feature.properties.end_date;
+    var popupText = feature.properties.name;
    layer.bindPopup(popupText);
 }
 
@@ -64,9 +65,16 @@ function onEachFeature(feature, layer) {
   function addGeoJsonLayerWithClustering(data) {
       var markers = L.markerClusterGroup();
       var geoJsonLayer = L.geoJson(data, {
-          onEachFeature: function (feature, layer) {
-              layer.bindPopup(feature.properties.name);
-          }
+          // onEachFeature: function (feature, layer) {
+          //     layer.bindPopup(feature.properties.name);
+          // }
+          pointToLayer: function(feature, latlng) {
+             console.log(latlng, feature);
+             return L.marker(latlng, {
+               icon: smallIcon
+             });
+           },
+           onEachFeature: onEachFeature
       });
       markers.addLayer(geoJsonLayer);
       leafletData.getMap().then(function(map) {
