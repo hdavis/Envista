@@ -16,7 +16,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
   /// Putting new code here:
   var initLat = 37.759313;
   var initLong = -122.441815;
-  var initZoomLevel = 13;
+  var initZoomLevel = 12;
   var zoommax = 18;
 
   angular.extend($scope, {
@@ -50,7 +50,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 // OVERLAYS
 
 function onEachFeature(feature, layer) {
-   console.log(feature);
+   //console.log(feature);
    var popupText = "<strong>Envista Construction Project</strong>"
                + "<br>Project Status: " + feature.properties.project_status
                + "<br>Project Class: " + feature.properties.dpw_project_class
@@ -71,7 +71,7 @@ function onEachFeature(feature, layer) {
           //     layer.bindPopup(feature.properties.name);
           // }
           pointToLayer: function(feature, latlng) {
-             console.log(latlng, feature);
+             //console.log(latlng, feature);
              return L.marker(latlng, {
                icon: smallIcon
              });
