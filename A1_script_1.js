@@ -1,10 +1,6 @@
 var app = angular.module("app", ["leaflet-directive"]);
 
 app.controller('MapController', ['$scope', '$http', 'leafletData', function($scope, $http, leafletData) {
-  // var ratIcon = L.icon({
-  //   iconUrl: 'http://andywoodruff.com/maptime-leaflet/rat.png',
-  //   iconSize: [60,50]
-  // });
   var smallIcon = new L.Icon({
       iconUrl: 'icons/pin-1_dk_blue.svg', // was using 'icons/placeholder-29.svg'
       iconRetinaUrl: 'icons/pin-1_dk_blue.svg',
@@ -13,7 +9,6 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
   });
 
-  /// Putting new code here:
   var initLat = 37.759313;
   var initLong = -122.441815;
   var initZoomLevel = 12;
@@ -32,7 +27,8 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
     // }
   });
 
-  $http.get("envista.geojson").success(function(data, status) {
+  //$http.get("envista.geojson").success(function(data, status) {
+  $http.get("https://data.sfgov.org/resource/vad7-rtjc.geojson").success(function(data, status) {
     angular.extend($scope, {
 	    geojson: {
         // pointToLayer: function(feature,latlng){
@@ -43,11 +39,6 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 		});
   });
 
-
-
-// BASEMAPS
-
-// OVERLAYS
 
 function onEachFeature(feature, layer) {
    //console.log(feature);
@@ -61,8 +52,6 @@ function onEachFeature(feature, layer) {
     //var popupText = feature.properties.name;
    layer.bindPopup(popupText);
 }
-
-///
 
   function addGeoJsonLayerWithClustering(data) {
       var markers = L.markerClusterGroup();
