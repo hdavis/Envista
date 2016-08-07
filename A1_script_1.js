@@ -43,7 +43,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 
 function onEachFeature(feature, layer) {
    //console.log(feature);
-   var popupText = "<strong>Envista Construction Project</strong>"
+   var popupText = "<strong>Construction Project</strong>"
                + "<br>Project Status: " + feature.properties.project_status
                + "<br>Project Class: " + feature.properties.dpw_project_class
                + "<br>Owner: " + feature.properties.owner
