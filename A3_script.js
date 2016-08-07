@@ -32,18 +32,17 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 		});
   });
 
-
-function onEachFeature(feature, layer) {
-   //console.log(feature);
-   var popupText = "<strong>Construction Project</strong>"
-               + "<br>Project Status: " + feature.properties.project_status
-               + "<br>Project Class: " + feature.properties.dpw_project_class
-               + "<br>Owner: " + feature.properties.owner
-               + "<br>Project ID: " + feature.properties.project_id
-               + "<br>Start Date: " + feature.properties.start_date
-               + "<br>End Date: " + feature.properties.end_date;
-   layer.bindPopup(popupText);
-}
+  function onEachFeature(feature, layer) {
+     //console.log(feature);
+     var popupText = "<strong>Construction Project</strong>"
+                 + "<br>Project Status: " + feature.properties.project_status
+                 + "<br>Project Class: " + feature.properties.dpw_project_class
+                 + "<br>Owner: " + feature.properties.owner
+                 + "<br>Project ID: " + feature.properties.project_id
+                 + "<br>Start Date: " + feature.properties.start_date
+                 + "<br>End Date: " + feature.properties.end_date;
+     layer.bindPopup(popupText);
+  }
 
   function addGeoJsonLayerWithClustering(data) {
       var markers = L.markerClusterGroup();
@@ -59,7 +58,6 @@ function onEachFeature(feature, layer) {
       markers.addLayer(geoJsonLayer);
       leafletData.getMap().then(function(map) {
         map.addLayer(markers);
-        //map.fitBounds(markers.getBounds());
       });
   }
 
