@@ -30,7 +30,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
     angular.extend($scope, {
 	    geojson: {
 	     	pointToLayer: function(feature,latlng){
-		  	  return L.marker(latlng,{icon: leafIcon});
+		  	  return L.marker(latlng,{icon: smallIcon});
 			  },
 	      data: addGeoJsonLayerWithClustering(data)
 		  }
