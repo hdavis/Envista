@@ -35,10 +35,10 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
   function onEachFeature(feature, layer) {
      //console.log(feature);
      var popupText = "<strong>Construction Project</strong>"
-                 + "<br>Project Status: " + feature.properties.project_status
-                 + "<br>Project Class: " + feature.properties.dpw_project_class
+                 + "<br>Status: " + feature.properties.project_status
+                 + "<br>Class: " + feature.properties.dpw_project_class
                  + "<br>Owner: " + feature.properties.owner
-                 + "<br>Project ID: " + feature.properties.project_id
+                 + "<br>ID: " + feature.properties.project_id
                  + "<br>Start Date: " + feature.properties.start_date
                  + "<br>End Date: " + feature.properties.end_date;
      layer.bindPopup(popupText);
