@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Envista Construction Projects Map</title>
+  <link data-require="leaflet@*" data-semver="0.7.3" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <script data-require="leaflet@*" data-semver="0.7.3" src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <script data-require="angular.js@1.4.1" data-semver="1.4.1" src="https://code.angularjs.org/1.4.1/angular.js"></script>
+  <script data-require="angular-leaflet-directive@*" data-semver="0.7.15" src="angular-leaflet/angular-leaflet-directive.min.js"></script>
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+  <link rel="stylesheet" href="A3_style.css" />
+  <script src="A3_script.js"></script>
+</head>
+
+<body ng-app="app" ng-controller="MapController">
+  <h2>Preliminary Map of Envista Construction Projects in San Francisco, CA</h2>
+  <!-- <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 600px ;" geojson="geojson"></leaflet> -->
+  <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 100% ;" geojson="geojson"></leaflet>
+</body>
+
+</html>

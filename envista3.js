@@ -29,6 +29,23 @@ attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Resea
 });
 //map.addLayer(OpenMapSurfer_Roads);
 
+// var MapBox = L.tileLayer('http://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+// 	attribution: 'Imagery from <a href="http://mapbox.com/about/maps/">MapBox</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+// 	subdomains: 'abcd',
+// 	id: '<your id>',
+// 	accessToken: '<your accessToken>'
+// });
+
+// var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+// 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+// 	subdomains: 'abcd',
+// 	maxZoom: 19
+// });
+
+// var OpenMapSurfer_Grayscale = L.tileLayer('http://korona.geog.uni-heidelberg.de/tiles/roadsg/x={x}&y={y}&z={z}', {
+// 	maxZoom: 19,
+// 	attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+// });
 
 // OVERLAYS
 
