@@ -61,24 +61,18 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
 // //----------------------
 
 
-
-
-
-
-
-/// TURNED THIS OFF WHEN ADDED MAP LAYERS AND SETVIEW AT BOTTOM
-  // angular.extend($scope, {
-  //   SanFrancisco: {
-  //     lat: initLat,
-  //     lng: initLong,
-  //     zoom: initZoomLevel
-  //   },
-  //   // pointToLayer: function(feature,latlng){
-  //   //     var marker = L.marker(latlng,{icon: ratIcon});
-  //   //     marker.bindPopup(feature.properties.Location + '<br/>' + feature.properties.OPEN_DT);
-  //   //     return marker;
-  //   // }
-  // });
+  angular.extend($scope, {
+    SanFrancisco: {
+      lat: initLat,
+      lng: initLong,
+      zoom: initZoomLevel
+    },
+    // pointToLayer: function(feature,latlng){
+    //     var marker = L.marker(latlng,{icon: ratIcon});
+    //     marker.bindPopup(feature.properties.Location + '<br/>' + feature.properties.OPEN_DT);
+    //     return marker;
+    // }
+  });
 
   //$http.get("envista.geojson").success(function(data, status) {
   //$http.get("https://data.sfgov.org/resource/vad7-rtjc.geojson").success(function(data, status) { // smaller dataset
@@ -130,44 +124,44 @@ function onEachFeature(feature, layer) {
 
 }]);
 
-// //mapoptions
-// myApp.controller("GoogleMapsController", ["$scope",
-//     function($scope) {
-//         angular.extend($scope, {
-//             world: {
-//                 lat: 15.52,
-//                 lng: 10.40,
-//                 zoom: 2
-//             },
-//             scrollwheel: false,
-//             layers: {
-//                 baselayers: {
-//                     googleTerrain: {
-//                         name: 'Google Terrain',
-//                         layerType: 'TERRAIN',
-//                         type: 'google'
-//                     }
+//mapoptions
+myApp.controller("GoogleMapsController", ["$scope",
+    function($scope) {
+        angular.extend($scope, {
+            world: {
+                lat: 15.52,
+                lng: 10.40,
+                zoom: 2
+            },
+            scrollwheel: false,
+            layers: {
+                baselayers: {
+                    googleTerrain: {
+                        name: 'Google Terrain',
+                        layerType: 'TERRAIN',
+                        type: 'google'
+                    }
+
+
+                }
+            },
+            defaults: {
+                scrollwheel: false
+            }
+        });
+    }
+]);
+
+// var map = L.map('map');
 //
+// // BASEMAPS
+// // Additional basemaps @ https://leaflet-extras.github.io/leaflet-providers/preview/
 //
-//                 }
-//             },
-//             defaults: {
-//                 scrollwheel: false
-//             }
-//         });
-//     }
-// ]);
-
-var map = L.map('map');
-
-// BASEMAPS
-// Additional basemaps @ https://leaflet-extras.github.io/leaflet-providers/preview/
-
-// OpenStreetMap Black and White basemap
-var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-maxZoom: zoommax,
-attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-});
-map.addLayer(OpenStreetMap_BlackAndWhite);
-
-map.setView([initLat, initLong], initZoomLevel);
+// // OpenStreetMap Black and White basemap
+// var OpenStreetMap_BlackAndWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+// maxZoom: zoommax,
+// attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+// });
+// map.addLayer(OpenStreetMap_BlackAndWhite);
+//
+// map.setView([initLat, initLong], initZoomLevel);

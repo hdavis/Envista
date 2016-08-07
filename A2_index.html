@@ -11,16 +11,16 @@
   <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
   <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
   <link rel="stylesheet" href="A2_style.css" /> <!-- My own version - don't know if it is correct -->
-  <!-- <script src="angular-leaflet/Google.js"></script> -->
+  <script src="angular-leaflet/Google.js"></script>
   <script src="A2_script.js"></script>
 </head>
 
 <body ng-app="app" ng-controller="MapController">
   <h2>Preliminary Map of Envista Construction Projects in San Francisco, CA</h2>
-  <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 600px ;" geojson="geojson"></leaflet>
-  <!-- <div ng-controller='GoogleMapsController'>
+  <!-- <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 600px ;" geojson="geojson"></leaflet> -->
+  <div ng-controller='GoogleMapsController'>
     <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 600px ;" geojson="geojson"></leaflet>
-  </div> -->
+  </div>
 </body>
 <!-- <body ng-controller="DemoController">
    <div ng-controller='GoogleMapsController'>
