@@ -29,9 +29,9 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
   $http.get("A1_test.geojson").success(function(data, status) {
     angular.extend($scope, {
 	    geojson: {
-	     	pointToLayer: function(feature,latlng){
-		  	  return L.marker(latlng,{icon: smallIcon});
-			  },
+        // pointToLayer: function(feature,latlng){
+		  	//   return L.marker(latlng,{icon: smallIcon});
+			  // },
 	      data: addGeoJsonLayerWithClustering(data)
 		  }
 		});
@@ -46,14 +46,18 @@ var zoommax = 18;
 // BASEMAPS
 
 // OVERLAYS
-// Add maximum temperature data
-// var smallIcon = new L.Icon({
-//     iconUrl: 'icons/pin-1_dk_blue.svg', // was using 'icons/placeholder-29.svg'
-//     iconRetinaUrl: 'icons/pin-1_dk_blue.svg',
-//     iconSize:    [34, 34], // size of the icon
-//     iconAnchor:  [12, 30], // point of the icon which will correspond to marker's location
-//     popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
-// });
+
+function onEachFeature(feature, layer) {
+   console.log(feature);
+   var popupText = "<strong>Envista Construction Project</strong>"
+               + "<br>Project Status: " + feature.properties.project_status
+               + "<br>Project Class: " + feature.properties.dpw_project_class
+               + "<br>Owner: " + feature.properties.owner
+               + "<br>Project ID: " + feature.properties.project_id
+               + "<br>Start Date: " + feature.properties.start_date
+               + "<br>End Date: " + feature.properties.end_date;
+   layer.bindPopup(popupText);
+}
 
 ///
 
