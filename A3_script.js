@@ -6,7 +6,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       iconRetinaUrl: 'icons/pin-2_dk_blue.svg',
       iconSize:    [34, 34], // size of the icon
       iconAnchor:  [18, 32], // 12, 30, point of the icon which will correspond to marker's location
-      popupAnchor: [4, -30], // point from which the popup should open relative to the iconAnchor
+      popupAnchor: [10, -34], // 4, -30, point from which the popup should open relative to the iconAnchor
   });
 
   var initLat = 37.759313;
