@@ -1,8 +1,6 @@
 var app = angular.module("app", ["leaflet-directive"]);
 
 app.controller('MapController', ['$scope', '$http', 'leafletData', function($scope, $http, leafletData) {
-
-
   var initLat = 37.759313;
   var initLong = -122.441815;
   var initZoomLevel = 12;
@@ -42,14 +40,14 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       var markers = L.markerClusterGroup();
       var geoJsonLayer = L.geoJson(data, {
           pointToLayer: function(feature, latlng) {
-             var smallIcon = L.Icon({
+             var smallIcon = new L.Icon({
                     iconSize:    [34, 34], // size of the icon
                     iconAnchor:  [18, 32], // 12, 30, point of the icon which will correspond to marker's location
                     popupAnchor: [10, -34], // 4, -30, point from which the popup should open relative to the iconAnchor
                     // iconRetinaUrl: 'icons/' + feature.properties.project_status + '.svg',
                     iconUrl: 'icons/' + feature.properties.project_status + '.svg'
              });
-             console.log(smallIcon);
+             //console.log(smallIcon);
              //console.log(latlng, feature);
              return L.marker(latlng, {
                      icon: smallIcon
@@ -59,7 +57,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       });
       markers.addLayer(geoJsonLayer);
       leafletData.getMap().then(function(map) {
-        map.addLayer(markers);
+          map.addLayer(markers);
       });
   }
 

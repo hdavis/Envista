@@ -64,7 +64,7 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
                     // iconRetinaUrl: 'icons/' + feature.properties.project_status + '.svg',
                     iconUrl: 'icons/' + feature.properties.project_status + '.svg'
              });
-             console.log(smallIcon);
+             //console.log(smallIcon);
              //console.log(latlng, feature);
              return L.marker(latlng, {
                      icon: smallIcon
