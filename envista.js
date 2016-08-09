@@ -41,9 +41,9 @@ app.controller('MapController', ['$scope', '$http', 'leafletData', function($sco
       var geoJsonLayer = L.geoJson(data, {
           pointToLayer: function(feature, latlng) {
              var smallIcon = new L.Icon({
-                    iconSize:    [34, 34], // size of the icon
+                    iconSize:    [30, 30], // 34, 34, size of the icon
                     iconAnchor:  [18, 32], // 12, 30, point of the icon which will correspond to marker's location
-                    popupAnchor: [10, -34], // 4, -30, point from which the popup should open relative to the iconAnchor
+                    popupAnchor: [12, -34], // 4/10, -30, point from which the popup should open relative to the iconAnchor
                     // iconRetinaUrl: 'icons/' + feature.properties.project_status + '.svg',
                     iconUrl: 'icons/' + feature.properties.project_status + '.svg'
              });
