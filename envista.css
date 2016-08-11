@@ -18,3 +18,7 @@ h2 {
 h3 {
     text-align: center;
 }
+
+ul li { 
+    padding: 8px 0px; 
+}
