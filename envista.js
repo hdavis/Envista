@@ -3,7 +3,7 @@ var app = angular.module("app", ["leaflet-directive"]);
 app.controller('MapController', ['$scope', '$http', 'leafletData', function($scope, $http, leafletData) {
   var initLat = 37.759313;
   var initLong = -122.441815;
-  var initZoomLevel = 12;
+  var initZoomLevel = 14;
   var zoommax = 18;
 
   angular.extend($scope, {
