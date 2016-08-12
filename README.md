@@ -2,7 +2,18 @@
 
 The goal of the Envista Mapping App is to map the City of San Francisco's Envista construction projects using data from the City's [Open Data portal] (https://data.sfgov.org/).
 
-To view the map, visit [this page] (https://hdavis.github.io/Envista/envista.html).
+### To View the Map
+To view the map, visit [this page] (https://hdavis.github.io/Envista/envista.html).  
+
+This map uses a clustering algorithm which shows a single symbol (an orange, yellow or green circle) to represent multiple data points (a.k.a. markers).  The number inside the circle tells how many data points/markers the circle represents.  If you zoom in or click on one of the circles, the map will expand to show more circles and markers.  
+
+To access information on a single construction project, click on the colored marker for that project and a popup will display showing pertinent details.  
+
+### The marker colors denote the project's status:
+  - Red = Started
+  - Blue = Committed
+  - Purple = Planned
+  - Cyan = Completed
 
 # Future Improvements
 - Since the map takes a few seconds to load, add a spinning animation during this loading period.
