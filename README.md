@@ -11,7 +11,7 @@ To access information on a single construction project, click on the colored mar
 
 ### The marker colors denote the project's status:
   - Red = Started
-  - Blue = Committed
+  - Dark Blue = Committed
   - Purple = Planned
   - Cyan = Completed
 
@@ -21,7 +21,7 @@ To access information on a single construction project, click on the colored mar
 - Possibly add a data viewing panel on the right side of the map similar to how the [LA Street Wize] (http://streetwize.lacity.org/) site displays data as opposed to the current popups when a user clicks on a point in the map.
 - Improve overall site layout, possibly adopt a similar layout to the LA Street Wise site.
 -  Provide more ways to look at the data by allowing users to:
-  - query on a given time period and/or make it clearer which projects have started (red markers), which are upcoming (blue and purple markers) and which have been completed (cyan markers)
-  - see the data by project class (gas, sewer, water, electric, transit, pedestrian safety, storm drain, etc. )
-  - see the data by project owner (PG&E, SF Public Utilities Commission, SF Municipal Transportation Agency, AT&T, etc.)
-  - query by address
+  - Query on a given time period and/or make it clearer which projects have started (red markers), which are upcoming (blue and purple markers) and which have been completed (cyan markers)
+  - See the data by project class (gas, sewer, water, electric, transit, pedestrian safety, storm drain, etc. )
+  - See the data by project owner (PG&E, SF Public Utilities Commission, SF Municipal Transportation Agency, AT&T, etc.)
+  - Query by address
