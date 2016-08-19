@@ -24,7 +24,9 @@ h2 {
 h3 {
     font-size: 18px;
     text-align: center;
+    margin: 0px;
     margin-bottom: 4px;
+    padding: 0px;
     padding-bottom: 4px;
 }
 h4 {
