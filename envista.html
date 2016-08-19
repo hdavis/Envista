@@ -21,6 +21,21 @@
   <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 100% ;" geojson="geojson"></leaflet>
   
     <div>
+      <h2>How to Interact with This Map</h2>
+        <p>This map uses a clustering algorithm which shows a single symbol (an orange, yellow or green circle) to represent multiple data points (a.k.a. markers).  The number inside the circle tells how many data points/markers the circle represents.  If you zoom in or click on one of the circles, the map will expand to show more circles and markers.  </p>
+
+        <p>To access information on a single construction project, click on the colored marker for that project and a popup will display showing pertinent details.  </p>
+
+        <h4>The marker colors denote the project's status:</h4>
+
+        <ul>
+        <li>Red = Started</li>
+        <li>Dark Blue = Committed</li>
+        <li>Purple = Planned</li>
+        <li>Cyan = Completed</li>
+        </ul>
+    </div>
+    <div>
       <h2>Future Improvements</h2>
       <ul>
           <li>Since the map takes a few seconds to load, add a spinning animation during this loading period.</li>
