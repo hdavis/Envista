@@ -10,8 +10,8 @@ html, body, #map {
 h1 {
     font-size: 24px;
     text-align: center;
-    margin: 4px;
-    padding: 0px;
+    margin: 0px;
+    padding: 4px;
 }
 
 h2 {
@@ -24,8 +24,8 @@ h2 {
 h3 {
     font-size: 18px;
     text-align: center;
-    margin: 0px;
-    padding: 4px;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
 }
 h4 {
     font-size: 16px;
