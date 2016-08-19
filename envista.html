@@ -15,11 +15,14 @@
 </head>
 
 <body ng-app="app" ng-controller="MapController">
-  <h2>San Francisco Construction Projects</h2>
+  <h1>San Francisco Construction Projects</h1>
   <h3>(Preliminary Map)</h3>
   <!-- <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 700px ;" geojson="geojson"></leaflet> -->
   <leaflet markers="markers" center="SanFrancisco" events="events" legend="legend" style="height: 540px; width: 100% ;" geojson="geojson"></leaflet>
-  
+    <div>
+        <h2>Project Objective</h2>
+        <p>The goal of the Envista Mapping App is to map the City of San Francisco's Envista construction projects using data from the City's <a href ="https://data.sfgov.org/">Open Data portal</a>.</p>
+    </div>
     <div>
       <h2>How to Interact with This Map</h2>
         <p>This map uses a clustering algorithm which shows a single symbol (an orange, yellow or green circle) to represent multiple data points (a.k.a. markers).  The number inside the circle tells how many data points/markers the circle represents.  If you zoom in or click on one of the circles, the map will expand to show more circles and markers.  </p>
