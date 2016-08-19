@@ -9,15 +9,17 @@ html, body, #map {
 
 h1 {
     text-align: center;
+    padding: 0px;
 }
 
 h2 {
     text-align: center;
+    padding: 0px;
 }
 
 h3 {
 /*    font-size: 18px;*/
-    text-align: center;
+    text-align: left;
 }
 h4 {
 /*    font-size: 16px;*/
