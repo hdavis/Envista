@@ -10,14 +10,13 @@ html, body, #map {
 h1 {
     font-size: 24px;
     text-align: center;
-    margin: 0px;
+    margin: 4px;
     padding: 0px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 22px;
     text-align: left;
-    padding: 0px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -26,7 +25,7 @@ h3 {
     font-size: 18px;
     text-align: center;
     margin: 0px;
-    padding: 0px;
+    padding: 4px;
 }
 h4 {
     font-size: 16px;
